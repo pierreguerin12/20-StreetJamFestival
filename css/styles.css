@@ -24,27 +24,32 @@ footer{
 .container{
   display: flex;
   flex-wrap: wrap;
-  align-content: space-between;
-  background:black;
+  background:#dcb0cf;
 }
-.festival{
-  padding: 30px;
+.festival {
+  padding: 25px;
   background: white; 
   color: black;
-  margin: 1px;
-  flex-grow: 4;
+  border: 1px solid ;
+  text-decoration: none;
+  flex-grow: 3;
 }
 .streetfood{
-  padding: 30px;
+  padding: 25px;
   background: white; 
   color: black;
-  margin: 1px;
-  flex-grow: 2;
+  border: 1px solid ;
+  text-decoration: none;
+  flex-grow:0;
 }
 .contact{
-  padding: 30px;
+  padding: 25px;
   background: white; 
   color: black;
-  margin: 1px;
-  flex-grow: 2;
+  border: 1px solid;
+  text-decoration: none;
+  flex-grow: 0;
+}
+.blanc{
+  background:white;
 }
