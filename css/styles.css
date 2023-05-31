@@ -1,19 +1,24 @@
 html {
   font-family: "Montserrat";
 }
-
 body {
   max-width: 375px;
   margin: auto;
-  background: #ddd;
+  background: white;
 
 }
-
 img {
   display: block;
   max-width: 100%;
 }
-
 h1,h2,h3 {
   font-family: "MuseoModerno Thin";
+}
+main{
+  background: #dcb0cf;
+  padding: 0px 0px 60px 0px;
+}
+footer{
+  background: #c1c1c1;
+  padding: 0px 0px 60px 0px;
 }
