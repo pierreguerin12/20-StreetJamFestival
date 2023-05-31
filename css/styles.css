@@ -4,7 +4,7 @@ html {
 body {
   max-width: 375px;
   margin: auto;
-  background: white;
+  background: black;
 }
 img {
   display: block;
@@ -50,6 +50,27 @@ footer{
   text-decoration: none;
   flex-grow: 0;
 }
-.blanc{
+.tags{
   background:white;
+  padding: 20px 20px 20px 20px;
+}
+.jam{
+  background:#dcb0cf;
+  padding: 20px 20px 20px 20px;
+}
+.skate{
+  background:#c1c1c1;
+  padding: 20px 20px 20px 20px;
+}
+.musique{
+  background: #dcb0cf;
+  padding: 20px 20px 20px 20px;
+}
+.food{
+  background:white;
+  padding: 20px 20px 20px 20px;
+}
+.musique{
+  background:#c1c1c1;
+  padding: 20px 20px 20px 20px;
 }
