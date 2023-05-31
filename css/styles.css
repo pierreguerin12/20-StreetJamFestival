@@ -21,3 +21,30 @@ footer{
   background: #c1c1c1;
   padding: 0px 0px 60px 0px;
 }
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  background:black;
+}
+.festival{
+  padding: 30px;
+  background: white; 
+  color: black;
+  margin: 1px;
+  flex-grow: 4;
+}
+.streetfood{
+  padding: 30px;
+  background: white; 
+  color: black;
+  margin: 1px;
+  flex-grow: 2;
+}
+.contact{
+  padding: 30px;
+  background: white; 
+  color: black;
+  margin: 1px;
+  flex-grow: 2;
+}
