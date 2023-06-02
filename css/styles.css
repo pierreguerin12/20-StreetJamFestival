@@ -12,6 +12,7 @@ img {
 }
 h1,h2,h3 {
   font-family: "MuseoModerno Thin";
+  font-weight: 400;
 }
 main{
   padding: 0px 0px 60px 0px;
