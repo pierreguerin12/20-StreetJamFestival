@@ -16,7 +16,9 @@ h1,h2,h3 {
 main{
   padding: 0px 0px 60px 0px;
   background-image: url(../img/fond.jpg);
-  background-size: 140%;
+  background-size: 100%;
+  background-position: 0px;
+
 }
 footer{
   background: #c1c1c1;
@@ -55,6 +57,7 @@ footer{
   padding: 20px 20px 20px 20px;
 }
 .jam{
+
   padding: 20px 20px 20px 20px;
 }
 .skate{
