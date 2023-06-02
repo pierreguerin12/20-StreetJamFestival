@@ -1,5 +1,5 @@
 html {
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
 }
 body {
   max-width: 375px;
@@ -11,7 +11,7 @@ img {
   max-width: 100%;
 }
 h1,h2,h3 {
-  font-family: "MuseoModerno Thin";
+  font-family: 'MuseoModerno', cursive;
   font-weight: 400;
 }
 main{
