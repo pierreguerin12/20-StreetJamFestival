@@ -14,8 +14,9 @@ h1,h2,h3 {
   font-family: "MuseoModerno Thin";
 }
 main{
-  background: #dcb0cf;
   padding: 0px 0px 60px 0px;
+  background-image: url(../img/fond.jpg);
+  background-size: 140%;
 }
 footer{
   background: #c1c1c1;
@@ -51,26 +52,20 @@ footer{
   flex-grow: 0;
 }
 .tags{
-  background:white;
   padding: 20px 20px 20px 20px;
 }
 .jam{
-  background:#dcb0cf;
   padding: 20px 20px 20px 20px;
 }
 .skate{
-  background:#c1c1c1;
   padding: 20px 20px 20px 20px;
 }
 .musique{
-  background: #dcb0cf;
   padding: 20px 20px 20px 20px;
 }
 .food{
-  background:white;
   padding: 20px 20px 20px 20px;
 }
 .musique{
-  background:#c1c1c1;
   padding: 20px 20px 20px 20px;
 }
