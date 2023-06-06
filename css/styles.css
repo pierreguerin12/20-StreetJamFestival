@@ -19,7 +19,6 @@ main{
 }
 footer{
   background: #c1c1c1;
-
 }
 .container{
   display: flex;
@@ -30,25 +29,32 @@ footer{
   padding: 25px;
   background: white; 
   color: black;
-  border: 1px solid ;
+  border-bottom: 1px solid ;
+  border-top: 1px solid ;
+  border-right: 1px solid ;
+  border-left: 1px solid ;
   text-decoration: none;
-  flex-grow: 3;
+  flex-grow: 0;
 }
 .streetfood{
   padding: 25px;
   background: white; 
   color: black;
-  border: 1px solid ;
+  border-bottom: 1px solid ;
+  border-top: 1px solid ;
+  border-right: 1px solid ;
   text-decoration: none;
-  flex-grow:0;
+  flex-grow: 1;
 }
 .contact{
   padding: 25px;
   background: white; 
   color: black;
-  border: 1px solid;
+  border-bottom: 1px solid ;
+  border-right: 1px solid ;
+  border-left: 1px solid ;
   text-decoration: none;
-  flex-grow: 0;
+  flex-grow: 1;
 }
 .jam{
   padding: 25px 25px 25px 25px;
