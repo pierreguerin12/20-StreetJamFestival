@@ -56,6 +56,15 @@ footer{
   text-decoration: none;
   flex-grow: 1;
 }
+.instagram{
+  max-width: 20%;
+  background: white; 
+  color: black;
+  border-bottom: 1px solid ;
+  border-right: 1px solid ;
+  text-decoration: none;
+  flex-grow: 1;
+}
 .jam{
   padding: 25px 25px 25px 25px;
   background-image: url(../img/rose.jpg);
