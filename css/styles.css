@@ -18,7 +18,9 @@ main{
   padding: 0px 0px 0px 0px;
 }
 footer{
-  background: #c1c1c1;
+  background-image: url(../img/footer.jpg);
+  color: #d0a4c3;
+  padding: 25px 25px 25px 25px;
 }
 .container{
   display: flex;
@@ -97,4 +99,8 @@ footer{
 }
 .contact{
   padding: 25px 25px 25px 25px;
+}
+a{
+  text-decoration: none;
+  color: #d0a4c3;
 }
